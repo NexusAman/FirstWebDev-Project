@@ -1,2 +1,2 @@
 # Web_Development
-This repository contains the source code for a web development project.
+This repo contains the source code of my first web dev project.
